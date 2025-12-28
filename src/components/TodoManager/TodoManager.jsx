@@ -79,7 +79,7 @@ const TodoManager = () => {
     const dummyTodos = [
       {
         id: 1,
-        todo: 'Do something nice for someone you care about',
+        todo: 'Do something nice for someone you care about.',
         status: 0,
       },
       { id: 2, todo: 'Memorize a poem', status: 0 },
