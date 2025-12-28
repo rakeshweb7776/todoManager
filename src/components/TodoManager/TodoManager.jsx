@@ -107,7 +107,7 @@ const TodoManager = () => {
         <DownloadOutlined />
         Load Dummy Task
       </Button>
-      <div style={{ maxWidth: 800, margin: '20px auto' }}>
+      <div style={{ maxWidth: 800, margin: '22px auto' }}>
         <Card
           title={
             <div
